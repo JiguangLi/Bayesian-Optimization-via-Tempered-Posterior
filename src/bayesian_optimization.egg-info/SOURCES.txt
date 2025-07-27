@@ -1,0 +1,8 @@
+setup.py
+src/bayesian_optimization/BayesianOptimizer.py
+src/bayesian_optimization/__init__.py
+src/bayesian_optimization.egg-info/PKG-INFO
+src/bayesian_optimization.egg-info/SOURCES.txt
+src/bayesian_optimization.egg-info/dependency_links.txt
+src/bayesian_optimization.egg-info/requires.txt
+src/bayesian_optimization.egg-info/top_level.txt
