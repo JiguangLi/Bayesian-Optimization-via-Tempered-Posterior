@@ -1,0 +1,19 @@
+name: bo
+channels:
+  - conda-forge
+channel_priority: strict
+dependencies:
+  - python=3.11          
+  - numpy=1.26
+  - scipy=1.13
+  - scikit-learn=1.5
+  - matplotlib=3.8
+  - seaborn=0.13
+  - pandas=2.2
+  - tqdm=4.67
+  - pyyaml=6.0
+  - pip
+  - pip:
+      - bayesian-optimization==0.0.0a0  
+      # - gpy==1.13.1
+      # - gpyopt==1.2.6

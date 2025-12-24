@@ -1,1 +1,2 @@
 from bayesian_optimization.BayesianOptimizer import BayesianOptimizer
+from bayesian_optimization.BayesianLinearOptimizer import BayesianLinearOptimizer, RBFFeatureMap
