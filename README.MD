@@ -1,6 +1,6 @@
 # Bayesian Optimization via Tempered Posterior
 
-This repo contains the official Python implementation of our proposed tempered Bayesian optimization framework described in the paper **: (placeholder). The current codebase implements tempered (or regular) GP surrogate, with generalized expected improvement acquization functions (including both probability of improvement, expected improvement, and more). Our tempering methodlogy can be generalized to other acquization functions as well.
+This repo contains the official Python implementation of our proposed tempered Bayesian optimization framework described in the paper [Robust bayesian optimization via tempered posteriors](https://arxiv.org/abs/2601.07094). The current codebase implements tempered (or regular) GP surrogate, with generalized expected improvement acquization functions (including both probability of improvement, expected improvement, and more). Our tempering methodlogy can be generalized to other acquization functions as well.
 
 
 
