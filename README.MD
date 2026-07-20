@@ -26,7 +26,7 @@ The following directories are especially helpful:
    - ```x04_bo_experiments_gm```:  Gaussian mixture noise setting
    - ```x04_bo_experiments_hs```: heteroscedastic noise
    - ```x04_bo_experiments_t```: Student-t noise
-- ```markdowns/03-25-26-experiments/result_analysis.ipynb```: result visualizations + figures/tables replications for Section 6.1 of the paper.
+- ```markdowns/03-24-26-bo-noise/result_analysis.ipynb```: result visualizations + figures/tables replications for Section 6.1 of the paper.
 - ```project/x03_real_data```: driver code for the real voltage optimization experiment in Section 6.2 of the paper.
 - ```markdowns/10-30-voltage-data/result_analysis.ipynb```: result visualizations + figures/tables replications for Section 6.2 of the paper.
 
@@ -40,7 +40,7 @@ The following directories are especially helpful:
    - Run script ```s02_BO_experiments_batch2.py``` to generate simulation result for the second batch of functions.
    - Run script ```s03_BO_experiments_batch3.py``` to generate simulation result for the thrid batch of functions.
    - There will be 3 separate pickle files in ```models/X04_````
-   - To visualize these results and replicate all the tables and figures in the paper , navigate to ```markdowns/03-25-26-experiments/result_analysis.ipynb``` and run all the cells.
+   - To visualize these results and replicate all the tables and figures in the paper , navigate to ```markdowns/03-24-26-bo-noise/result_analysis.ipynb``` and run all the cells.
 
 2. **Section 6.2 (Voltage Optimization)**: Navigate to the ```project/x03_real_data``` folder:
 
